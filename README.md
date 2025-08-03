@@ -18,4 +18,5 @@ conda activate myenv
 pip install -r requirements.txt
 ```
 
-
+Our fine-tuned models with ALOPE framework can be found in the HuggingFace repository
+[https://huggingface.co/collections/ArchSid/alope-aya-expanse-8b-models-688f6692f8fd62e37f8cee45](https://huggingface.co/ArchSid/collections)
