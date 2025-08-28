@@ -20,4 +20,4 @@ pip install -r requirements.txt
 
 Our fine-tuned models with ALOPE framework can be found in the HuggingFace repository:
 
-[https://huggingface.co/collections/ArchSid](https://huggingface.co/ArchSid/collections)
+[https://huggingface.co/collections/ArchSid](https://huggingface.co/surrey-nlp/collections)
